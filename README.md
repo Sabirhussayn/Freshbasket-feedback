@@ -1,2 +1,0 @@
-# Freshbasket-feedback
-Feedback project
